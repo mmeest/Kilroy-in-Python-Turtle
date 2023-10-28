@@ -7,6 +7,9 @@
 # Kilroy-in-Python-Turtle
 Drawing Kilroy graphity in Python with help of Turtle library
 
+* Kilroy.py - drawing line by line
+* Kilroy_with_Loops - using loops to draw the figure
+
 # Turtle is a library for Python for creating graphics
 https://docs.python.org/3/library/turtle.html
 
