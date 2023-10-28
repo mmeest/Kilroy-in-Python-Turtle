@@ -10,7 +10,7 @@ Drawing Kilroy graphity in Python with help of Turtle library
 # Turtle is a library for Python for creating graphics
 https://docs.python.org/3/library/turtle.html
 
-The turtle module in Python is a standard library for creating simple graphics and drawings. It provides a simple way to create drawings and graphics by using a turtle that can move around the screen, draw lines, and more. This module is often used to teach programming concepts to beginners, especially in an interactive and visual manner.
+The turtle module in Python provides a simple way to create drawings and graphics by using a turtle that can move around the screen, draw lines, and more. This module is often used to teach programming concepts in an interactive and visual manner.
 
 # Some main functions
 
