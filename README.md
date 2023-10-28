@@ -1,6 +1,6 @@
 <div>
   <p align="center">
-    <img src="https://github.com/mmeest/Kilroy-in-Python-Turtle/blob/main/Kilroy.gif" width="700px">
+    <img src="https://github.com/mmeest/Kilroy-in-Python-Turtle/blob/main/Kilroy.gif" width="320px">
   </p>
 </div>
 
