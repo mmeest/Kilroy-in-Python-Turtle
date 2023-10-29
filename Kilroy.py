@@ -54,7 +54,6 @@ def main():
     t.circle(10, -180)
     t.backward(20)
     t.circle(10, -180)
-    t.backward(20)
     
     # Draw third finger
     t.penup()
@@ -63,7 +62,6 @@ def main():
     t.circle(10, -180)
     t.backward(20)
     t.circle(10, -180)
-    t.backward(20)
     
     # Draw fourth finger
     t.penup()
@@ -81,7 +79,6 @@ def main():
     t.circle(10, -180)
     t.backward(20)
     t.circle(10, -180)
-    t.backward(20)
     
     # Draw sixth finger
     t.penup()
@@ -90,7 +87,6 @@ def main():
     t.circle(10, -180)
     t.backward(20)
     t.circle(10, -180)
-    t.backward(20)
     
     # Draw a line
     t.penup()
