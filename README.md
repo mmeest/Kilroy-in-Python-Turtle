@@ -8,7 +8,7 @@
 Drawing Kilroy graphity in Python with help of Turtle library
 
 * Kilroy.py - drawing line by line
-* Kilroy_with_Loops - using loops to draw the figure
+* Kilroy_with_Loops.py - using loops to draw the figure
 * Spiro.py - making spirograph image with Turtle
 
 <div>
